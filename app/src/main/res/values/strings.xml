@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Phone_authentication</string>
+    <string name="txtname">May I ask your phone no</string>
+    <string name="hintno">Enter your phone_no</string>
+    <string name="btn">Continue</string>
+    <string name="wait">Wait for the code i sent you</string>
+    <string name="hintwait">enter varification code</string>
+    <string name="btnsign">SignIn</string>
+    <string name="welcome">Welcome to your Profile</string>
+</resources>
